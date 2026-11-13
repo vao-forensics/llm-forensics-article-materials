@@ -1,0 +1,14 @@
+﻿{
+    "ts":  "2026-11-13 09:34:13",
+    "requests":  40,
+    "max_tokens":  220,
+    "seconds":  63,
+    "samples":  201,
+    "interval_ms":  250,
+    "distinct_endpoints":  5,
+    "external_endpoints":  0,
+    "external_list":  [
+
+                      ],
+    "method":  "Get-NetTCPConnection по процесах llama-server/llama-swap; локальні = 127/8, ::1, 10/8, 172.16/12, 192.168/16, 169.254/16, fe80::"
+}
